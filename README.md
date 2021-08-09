@@ -1,7 +1,7 @@
 ### Olá! Eu sou Vitor Sales
 
-- 💼 Atualmente trabalho com front-end
-- 💻 Estudando Dart / JavaScript
+- 💼 Atualmente trabalho com front-end.
+- 💻 Estudando Dart / JavaScript.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsales05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
