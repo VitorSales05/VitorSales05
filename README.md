@@ -22,4 +22,4 @@
 
 ##
 
-[![Readme Card](https://SportNews.vercel.app/api/pin/?username=VitorSales05&repo=SportNews)](https://github.com/VitorSales05/SportNews)
+!-- [![Readme Card](https://SportNews.vercel.app/api/pin/?username=VitorSales05&repo=SportNews)](https://github.com/VitorSales05/SportNews) --!
