@@ -1,7 +1,7 @@
 ### Olá! Eu sou Vitor Sales
 
-- 💼 Atualmente trabalhando com front-end.
-- 💻 Estudando CSS3 | HTML5 | JavaScript.
+- 💼 Atualmente trabalhando com back-end.
+- 💻 Estudando Ruby on Rails
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsales05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,6 +13,7 @@
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg">
+  <img align="center" height="40" width="50" src="https://media-exp1.licdn.com/dms/image/C510BAQHBTmKhcEu9mw/company-logo_200_200/0/1519888851072?e=2147483647&v=beta&t=heWAlEAYWEXkA1muhvPY1G2imp9kdzC88AtFVo3CvvU">
 </div>
 
 ##
