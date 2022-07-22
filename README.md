@@ -10,7 +10,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" height="60" width="60" src="https://media-exp1.licdn.com/dms/image/C510BAQHBTmKhcEu9mw/company-logo_200_200/0/1519888851072?e=2147483647&v=beta&t=heWAlEAYWEXkA1muhvPY1G2imp9kdzC88AtFVo3CvvU">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
 ##
