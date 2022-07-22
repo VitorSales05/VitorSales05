@@ -20,6 +20,3 @@
   <a href="https://www.instagram.com/vitor.ssales/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-##
-
-!-- [![Readme Card](https://SportNews.vercel.app/api/pin/?username=VitorSales05&repo=SportNews)](https://github.com/VitorSales05/SportNews) --!
