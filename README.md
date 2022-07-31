@@ -4,8 +4,8 @@
 - 💻 Estudando: Ruby on Rails | JavaScript
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsales05&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsales05&layout=compact&langs-count=16&theme=tokyonight"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsales05&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/> -->
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsales05&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
