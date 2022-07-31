@@ -4,7 +4,7 @@
 - 💻 Estudando: Ruby on Rails | JavaScript
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsales05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsales05&theme=tokyonight&hide=prs,contribs&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsales05&layout=compact&langs-count=16&theme=tokyonight"/>
 </div>
 
