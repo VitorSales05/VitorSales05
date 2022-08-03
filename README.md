@@ -1,6 +1,6 @@
 ### Olá! Eu sou Vitor Sales
 
-- 💼 Atualmente trabalhando com back-end.
+- 💼 Desenvolvedor Back-end.
 - 💻 Estudando: Ruby on Rails | JavaScript
 
 <div>
