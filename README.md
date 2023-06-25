@@ -1,6 +1,6 @@
 ### Olá! Eu sou Vitor Sales
 
-💼 Desenvolvedor Web
+💼 Desenvolvedor Web <br>
 💻 Estudando: Microsoft Dynamics 365
 
 <div>
