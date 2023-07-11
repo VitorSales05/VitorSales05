@@ -9,6 +9,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" height="55" width="55" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png">
   <img align="center" height="60" width="60" src="https://media-exp1.licdn.com/dms/image/C510BAQHBTmKhcEu9mw/company-logo_200_200/0/1519888851072?e=2147483647&v=beta&t=heWAlEAYWEXkA1muhvPY1G2imp9kdzC88AtFVo3CvvU">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" height="50" width="55" src="https://images.velog.io/images/t0dd-kr/post/23b0a45e-2b56-4b58-85b6-039674e47cd9/dart.png">
